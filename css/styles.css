@@ -22,6 +22,10 @@ header {
   color: purple;
   font-size: 100px;
 }
+#dropletter {
+  color: yellow;
+  font-size: 100px;
+}
 h2 {
   font-family: 'Crimson Text', sans-serif;
   font-weight: 300px;
