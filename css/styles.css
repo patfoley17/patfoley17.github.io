@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Crimson+Text');
+
+html {
+  background-color: rgb(242, 242, 242);
+  background: url("../images/bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+body {
+  font-family: 'Crimson Text', sans-serif;
+  margin: 50px;
+  max-width: 600px;
+}
+header {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 70px;
+  font-weight: 100;
+  line-height: 70px;
+}
+#dropletter {
+  color: purple;
+  font-size: 100px;
+}
+h2 {
+  font-family: 'Crimson Text', sans-serif;
+  font-weight: 300px;
+  margin-top: auto;
+  margin-left: 85px;
+}
+p {
+  font-family: 'Crimson Text', sans-serif;
+  font-size: 14px;
+  line-height: normal;
+}
+img {
+  display: block;
+  border: 2px solid black;
+  height: 140px;
+  padding: 0px 0px 0px 110px;
+}
+.mug {
+  position: absolute;
+  top: 260px;
+  margin-left: 40px;
+  border-radius: 40px 40px 40px 0px;
+  left: 290px;
+  background-color: white;
+}
+.highlight {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 20px;
+}
+
+
+/* html {
+background: url(xxxx) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+} */
